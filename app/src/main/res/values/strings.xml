@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HeyGoals</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="proyectos">Proyectos</string>
+    <string name="habitos">Habitos</string>
+    <string name="login">Login</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="nombre">Nombre</string>
+</resources>
